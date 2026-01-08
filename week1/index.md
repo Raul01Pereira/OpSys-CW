@@ -68,37 +68,39 @@ Architecture diagram.
 
 
 
-!\[System Architecture Diagram](..assets/diagrams/architecture-week1.png)
+!\[System Architecture Diagram]({{ site.baseurl }}/assets/diagrams/architecture-week1.png)
 
 
 
 
 
-System Specifications.
+\## System Specifications
 
 
 
-\### Kernel and OS Information.
+\### Kernel and OS Information
 
-!\[Kernel Information](../assets/images/uname-a.png)
+!\[Kernel Information]({{ site.baseurl }}/assets/images/uname-a.png)
 
-!\[Distribution Information](../assets/images/lsb-release.png)
-
-
-
-\### Memory Usage.
-
-!\[Memory Usage](../assets/images/free-h.png)
+!\[Distribution Information]({{ site.baseurl }}/assets/images/lsb-release.png)
 
 
 
-\### Disk Usage.
+\### Memory Usage
 
-!\[Disk Usage](../assets/images/df-h.png)
+!\[Memory Usage]({{ site.baseurl }}/assets/images/free-h.png)
 
 
 
-\### Network Configuration.
+\### Disk Usage
 
-!\[Network Configuration](../assets/images/ip-addr.png)
+!\[Disk Usage]({{ site.baseurl }}/assets/images/df-h.png)
+
+
+
+\### Network Configuration
+
+!\[Network Configuration]({{ site.baseurl }}/assets/images/ip-addr.png)
+
+
 
