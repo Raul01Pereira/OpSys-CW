@@ -1,3 +1,15 @@
+---
+
+title: Week 1 – System Architecture \& Sustainability
+
+---
+
+
+
+
+
+
+
 \# Week 1 - System Planning
 
 
@@ -34,9 +46,11 @@ Ubuntu Server 25.10 provides a balance between modern features and usability wit
 
 
 
-* Gained an understanding of Linux server architecture and headless system design.
-* Learned how to gather system and hardware information using command-line tools.
-* Developed familiarity with SSH-based remote administration.
+Gained an understanding of Linux server architecture and headless system design.
+
+Learned how to gather system and hardware information using command-line tools.
+
+Developed familiarity with SSH-based remote administration.
 
 
 
@@ -46,55 +60,43 @@ Ubuntu Server 25.10 provides a balance between modern features and usability wit
 
 
 
-* Operating systems play a critical role in sustainable computing by acting as intermediaries between hardware resources and user applications. Efficient OS design enables better CPU scheduling, memory management, and I/O control, which directly reduces energy consumption and improves overall system efficiency.
+Operating systems play a critical role in sustainable computing by acting as intermediaries between hardware resources and user applications. Efficient OS design enables better CPU scheduling, memory management, and I/O control, which directly reduces energy consumption and improves overall system efficiency.
 
 
 
-* The separation between user space and kernel space enhances system stability and security, allowing controlled access to hardware resources through system calls. This architectural design supports both performance optimisation and reduces system overhead.
+The separation between user space and kernel space enhances system stability and security, allowing controlled access to hardware resources through system calls. This architectural design supports both performance optimisation and reduces system overhead.
 
 
 
-* Modern computing environments, particularly data centres, consume a significant and growing proportion of global electricity. Operating system features such as virtualisation support, power management, and efficient resource allocation help improve hardware utilisation and reduce environmental impact.
+Modern computing environments, particularly data centres, consume a significant and growing proportion of global electricity. Operating system features such as virtualisation support, power management, and efficient resource allocation help improve hardware utilisation and reduce environmental impact.
 
 
 
-* This week highlighted the trade-offs between performance and energy efficiency, demonstrating how operating systems must balance responsiveness, resource usage, and sustainability when managing modern computing systems.
+This week highlighted the trade-offs between performance and energy efficiency, demonstrating how operating systems must balance responsiveness, resource usage, and sustainability when managing modern computing systems.
 
 
 
 
 
-Architecture diagram.
+\## System Architecture diagram.
 
 
 
-!\[System Architecture Diagram]({{ site.baseurl }}/assets/diagrams/architecture-week1.png)
+!\[System Architecture Diagram](/OpSys-CW/assets/diagrams/architecture-week1.png)
 
 
 
-\### Kernel and OS Information
-
-!\[Kernel Information]({{ site.baseurl }}/assets/images/uname-a.png)
-
-!\[Distribution Information]({{ site.baseurl }}/assets/images/lsb-release.png)
 
 
+!\[Kernel Information](/OpSys-CW/assets/images/uname-a.png)
 
-\### Memory Usage
+!\[Distribution Information](/OpSys-CW/assets/images/lsb-release.png)
 
-!\[Memory Usage]({{ site.baseurl }}/assets/images/free-h.png)
+!\[Memory Usage](/OpSys-CW/assets/images/free-h.png)
 
+!\[Disk Usage](/OpSys-CW/assets/images/df-h.png)
 
-
-\### Disk Usage
-
-!\[Disk Usage]({{ site.baseurl }}/assets/images/df-h.png)
-
-
-
-\### Network Configuration
-
-!\[Network Configuration]({{ site.baseurl }}/assets/images/ip-addr.png)
+!\[Network Configuration](/OpSys-CW/assets/images/ip-addr.png)
 
 
 
