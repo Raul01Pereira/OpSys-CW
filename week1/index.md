@@ -82,35 +82,35 @@ This week highlighted the trade-offs between performance and energy efficiency, 
 
 
 
-Architecture Diagram.
+<!-- Architecture Diagram -->
 
-<img src="/OpSys-CW/assets/diagrams/architecture-week1.png" alt="System Architecture Diagram" width="800">
-
-
-
-Kernel and OS Information.
-
-<img src="/OpSys-CW/assets/images/uname-a.png" alt="Kernel Information" width="800">
-
-<img src="/OpSys-CW/assets/images/lsb-release.png" alt="Distribution Information" width="800">
+<img src="/assets/diagrams/architecture-week1.png" alt="System Architecture Diagram" width="800">
 
 
 
-Memory Usage.
+<!-- Kernel and OS Information -->
 
-<img src="/OpSys-CW/assets/images/free-h.png" alt="Memory Usage" width="800">
+<img src="/assets/images/uname-a.png" alt="Kernel Information" width="800">
 
-
-
-Disk Usage.
-
-<img src="/OpSys-CW/assets/images/df-h.png" alt="Disk Usage" width="800">
+<img src="/assets/images/lsb-release.png" alt="Distribution Information" width="800">
 
 
 
-Network Configuration.
+<!-- Memory Usage -->
 
-<img src="/OpSys-CW/assets/images/ip-addr.png" alt="Network Configuration" width="800">
+<img src="/assets/images/free-h.png" alt="Memory Usage" width="800">
+
+
+
+<!-- Disk Usage -->
+
+<img src="/assets/images/df-h.png" alt="Disk Usage" width="800">
+
+
+
+<!-- Network Configuration -->
+
+<img src="/assets/images/ip-addr.png" alt="Network Configuration" width="800">
 
 
 
