@@ -82,21 +82,5 @@ This week highlighted the trade-offs between performance and energy efficiency, 
 
 
 
-!\[System Architecture Diagram](/OpSys-CW/assets/diagrams/architecture-week1.png)
-
-
-
-
-
 !\[Kernel Information](/OpSys-CW/assets/images/uname-a.png)
-
-!\[Distribution Information](/OpSys-CW/assets/images/lsb-release.png)
-
-!\[Memory Usage](/OpSys-CW/assets/images/free-h.png)
-
-!\[Disk Usage](/OpSys-CW/assets/images/df-h.png)
-
-!\[Network Configuration](/OpSys-CW/assets/images/ip-addr.png)
-
-
 
