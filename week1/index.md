@@ -68,7 +68,7 @@ Architecture diagram.
 
 
 
-!\[System Architecture Diagram](..assets\\diagrams\\architecture-week1.png)
+!\[System Architecture Diagram](..assets/diagrams/architecture-week1.png)
 
 
 
