@@ -72,12 +72,6 @@ Architecture diagram.
 
 
 
-
-
-\## System Specifications
-
-
-
 \### Kernel and OS Information
 
 !\[Kernel Information]({{ site.baseurl }}/assets/images/uname-a.png)
