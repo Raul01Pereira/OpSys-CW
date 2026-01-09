@@ -1,9 +1,4 @@
 
----
-
-title: Week 2 – System Architecture and Linux Foundations
-
----
 
 
 
