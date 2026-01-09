@@ -1,9 +1,14 @@
+---
+layout: default
+title: Week 2 – System Architecture and Linux Foundations
+---
+
+## Overview
+This week focused on understanding the internal architecture of operating systems and the foundational components of Linux systems. Theoretical concepts such as kernel design, layered architecture, and the boot process were explored alongside essential command-line tools used for system administration.
 
 
 
 
-
-\# Week 2 – System Architecture and Linux Foundations
 
 ## Overview
 This week focused on understanding the internal architecture of operating systems and the foundational components of Linux systems. Theoretical concepts such as kernel design, layered architecture, and the boot process were explored alongside essential command-line tools used for system administration. This knowledge provides the foundation for later security configuration and performance analysis tasks.
