@@ -4,12 +4,9 @@ layout: default
 title: Week 3 – Application Selection for Performance Testing
 ---
 
+## Overview
 
 
-
-
-
-\## Overview
 
 This week focuses on selecting representative applications that generate different types of system workloads. These applications will be used in later phases to evaluate operating system performance under varying conditions, including CPU, memory, disk I/O, and network usage.
 
