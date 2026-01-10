@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Week 7 – Security Audit and System Evaluation
+title: Week 7 – Security Audit
 nav_order: 7
 
 ---
