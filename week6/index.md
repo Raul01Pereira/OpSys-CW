@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 6 – System Performance Testing and Analysis
+title: Week 6 – Performance Testing
 nav_order: 6
 ---
 
