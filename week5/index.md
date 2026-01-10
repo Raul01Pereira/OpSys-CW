@@ -1,9 +1,7 @@
 ---
-
 layout: default
-
 title: Week 5 – Inter-Process Communication Mechanisms
-
+nav_order: 5
 ---
 
 
@@ -28,7 +26,7 @@ Pipes allow the output of one process to be used directly as input for another p
 
 
 
-!\[Pipe-based process communication](../assets/images/week5/wc-l.png)
+<img src="../assets/images/week5/wc-l.png" alt="Pipe-based process communication" width="800">
 
 
 
@@ -45,8 +43,7 @@ Named pipes (FIFOs) enable communication between unrelated processes using a spe
 
 
 
-
-!\[Named pipe communication](../assets/images/week5/pipes.png)
+<img src="../assets/images/week5/pipes.png" alt="Named pipe communication" width="800">
 
 
 
@@ -62,8 +59,7 @@ Signals are asynchronous notifications sent to processes to control execution or
 
 
 
-!\[Process signal handling](../assets/images/week5/sigint.png)
-
+<img src="../assets/images/week5/sigint.png" alt="Process signal handling" width="800">
 
 
 \*Figure 3: Sending termination signals to a running process, demonstrating graceful and forceful process control using Unix signals.\*
@@ -78,7 +74,7 @@ Signal handling allows applications to respond gracefully to termination request
 
 
 
-!\[Custom signal handling script](../assets/images/week5/kill.png)
+<img src="../assets/images/week5/kill.png" alt="Custom signal handling script" width="800">
 
 
 
