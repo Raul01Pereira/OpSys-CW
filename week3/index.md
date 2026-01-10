@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 3 – Application Selection for Performance Testing
+title: Week 3 – Application Selection
 nav_order: 3
 nav_exclude: false
 ---
