@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Week 1 – System Planning and Distribution Selection
+title: Week 1 – System Planning
+nav_order: 1
 ---
 
 ## Overview
