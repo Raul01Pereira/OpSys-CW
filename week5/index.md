@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Week 5 – Inter-Process Communication Mechanisms
+title: Week 5 – Inter-Process Communication
 nav_order: 5
 ---
 
