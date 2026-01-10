@@ -1,9 +1,8 @@
 ---
 
 layout: default
-
 title: Week 4 – Memory Management and Resource Allocation
-
+nav_order: 4
 ---
 
 
@@ -144,7 +143,7 @@ These tools are essential for diagnosing memory bottlenecks and evaluating syste
 
 
 
-\## Reflection
+
 
 Understanding memory management and resource allocation highlights the trade-offs between performance, efficiency, and isolation in operating system design. These concepts are fundamental in modern cloud, containerised, and multi-tenant systems, where efficient resource control directly impacts scalability, stability, and security.
 
@@ -152,9 +151,7 @@ Understanding memory management and resource allocation highlights the trade-off
 
 A) SSH screenshot
 
-!\[SSH access from workstation to server](../assets/images/week4/ssh-login.png)
-
-
+<img src="../assets/images/week4/ssh-login.png" alt="SSH access from workstation to server" width="800">
 
 \*Figure 1: Secure SSH access from the workstation system to the headless Linux server using key-based authentication.\*
 
@@ -162,16 +159,14 @@ A) SSH screenshot
 
 B) free -h screenshot (physical vs virtual memory)
 
-!\[Physical and virtual memory overview](../assets/images/week4/free-h.png)
+<img src="../assets/images/week4/free-h.png" alt="Physical and virtual memory overview" width="800">
 
 
 
 
 
 C) vmstat screenshot (paging and virtual memory)
-
-!\[Virtual memory and paging statistics](../assets/images/week4/vmstat.png)
-
+<img src="../assets/images/week4/vmstat.png" alt="Virtual memory and paging statistics" width="800">
 
 
 \*Figure 3: `vmstat` output illustrating virtual memory activity, free memory, and paging behaviour over time.\*
@@ -182,9 +177,7 @@ C) vmstat screenshot (paging and virtual memory)
 
 D) top / htop screenshot (per-process memory)
 
-!\[Per-process memory usage](../assets/images/week4/top.png)
-
-
+<img src="../assets/images/week4/top.png" alt="Per-process memory usage" width="800">
 
 \*Figure 4: Real-time process monitoring showing per-process memory consumption and system resource usage.\*
 
@@ -192,8 +185,7 @@ D) top / htop screenshot (per-process memory)
 
 E) ps aux --sort=%mem | head (Resource Allocation)
 
-!\[Processes sorted by memory usage](../assets/images/week4/ps-mem.png)
-
+<img src="../assets/images/week4/ps-mem.png" alt="Processes sorted by memory usage" width="800">
 
 
 \*Figure 5: Processes sorted by memory usage, illustrating how memory is distributed among running applications.\*
@@ -202,9 +194,7 @@ E) ps aux --sort=%mem | head (Resource Allocation)
 
 F) system-cgtop (Resource Isolation and Allocation)
 
-!\[Control group resource usage](../assets/images/week4/cgtop.png)
-
-
+<img src="../assets/images/week4/cgtop.png" alt="Control group resource usage" width="800">
 
 \*Figure 6: `systemd-cgtop` output showing resource usage across control groups, demonstrating Linux cgroup-based resource isolation.\*
 
