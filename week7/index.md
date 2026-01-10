@@ -1,8 +1,8 @@
 ---
 
 layout: default
-
 title: Week 7 – Security Audit and System Evaluation
+nav_order: 7
 
 ---
 
@@ -36,7 +36,7 @@ A review of user privileges confirmed that only authorised users are members of 
 
 
 
-!\[User privilege audit](../assets/images/week7/admin.png)
+<img src="../assets/images/week7/admin.png" alt="User privilege audit" width="800">
 
 
 
@@ -56,7 +56,7 @@ SSH configuration was audited to verify that password authentication is disabled
 
 
 
-!\[SSH service status](../assets/images/week7/ssh.png)
+<img src="../assets/images/week7/ssh.png" alt="SSH service status" width="800">
 
 
 
@@ -66,8 +66,7 @@ SSH configuration was audited to verify that password authentication is disabled
 
 "How is SSH hardened?" The answer Figure 3. (Configuration evidence)
 
-!\[SSH configuration audit](../assets/images/week7/sshd.png)
-
+<img src="../assets/images/week7/sshd.png" alt="SSH configuration audit" width="800">
 
 
 \*Figure 3: SSH daemon runtime configuration audit showing that password-based authentication is disabled and that root access is restricted to key-based authentication only.\*
@@ -84,7 +83,7 @@ Firewall rules were reviewed to ensure that inbound traffic is restricted by def
 
 
 
-!\[Firewall status](../assets/images/week7/ufw.png)
+<img src="../assets/images/week7/ufw.png" alt="UFW firewall status" width="800">
 
 
 
