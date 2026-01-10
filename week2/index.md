@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Week 2 – System Architecture and Linux Foundations
+nav_order: 2
+
 ---
 
 ## Overview
