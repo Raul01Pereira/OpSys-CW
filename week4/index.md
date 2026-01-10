@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Week 4 – Memory Management and Resource Allocation
+title: Week 4 – Memory Management
 nav_order: 4
 ---
 
